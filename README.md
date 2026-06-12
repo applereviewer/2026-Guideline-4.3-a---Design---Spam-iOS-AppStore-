@@ -1,4 +1,6 @@
 # 2026-Guideline-4.3-a---Design---Spam-iOS-AppStore-
+#微信WeChat:appshangjia666
+
 2026（原创）Guideline 4.3(a) - Design - Spam苹果上架iOS审核被拒AppStore卡审解决办法思路，适用于新项目、旧项目uniapp、flutter、xcode、Objective-C、Swift等多种类型框架多种开发语言代码提交上架AppStore遇到的4.3design
 
 
@@ -231,7 +233,8 @@ https://developer.apple.com/contact/request/app-review/appeal/
 
 
 
-额，如果所有方案都不行，也可以考虑付费找作者协助上架到AppStore，作者专业上架苹果15年，从iphone3GS手机时代就开始提交上架App，一直提交到现在，作者的经验值一直都在。当然作者也是吃饭的，有不想继续浪费时间在这个问题上的，可以付费找作者直接省心省力协助上架到AppStore，电话同微信18953671207
+额，如果所有方案都不行，也可以考虑付费找作者协助上架到AppStore，作者专业上架苹果15年，从iphone3GS手机时代就开始提交上架App，一直提交到现在，作者的经验值一直都在。当然作者也是吃饭的，有不想继续浪费时间在这个问题上的，可以付费找作者直接省心省力协助上架到AppStore，
+#微信appshangjia666
 
 
 
